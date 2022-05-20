@@ -18,4 +18,4 @@ Programming languages and libraries used:
 - matplotlib
 - seaborn
 
-It may be easier to view the code by copying/pasting the [url](https://github.com/jdg0711/analyzing_biodiversity/blob/main/biodiversity.ipynb) for the .ipynb file into [nbviewer](https://nbviewer.jupyter.org/).
+View the entire code and analysis by clicking here [CTRL + click to open in new window](https://nbviewer.org/github/jdg0711/analyzing_biodiversity/blob/main/biodiversity.ipynb).
